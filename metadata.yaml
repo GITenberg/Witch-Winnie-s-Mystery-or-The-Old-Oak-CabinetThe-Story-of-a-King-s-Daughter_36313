@@ -1,0 +1,52 @@
+_repo: Witch-Winnie-s-Mystery-or-The-Old-Oak-CabinetThe-Story-of-a-King-s-Daughter_36313
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Champney, James Wells
+    alias: Champney, J. Wells (James Wells)
+    birthdate: 1843
+    deathdate: 1903
+    gutenberg_agent_id: '6448'
+    url: http://www.gutenberg.org/2009/agents/6448
+  - agent_name: Gibson, Charles Dana
+    alias: Gibson, C. D. (Charles Dana)
+    birthdate: 1867
+    deathdate: 1944
+    gutenberg_agent_id: '26456'
+    url: http://www.gutenberg.org/2009/agents/26456
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dana_Gibson
+covers:
+- cover_type: archival
+  image_path: 36313-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Champney, Elizabeth W. (Elizabeth Williams)
+    aliases:
+    - Champney, Mrs. J. W.
+    - Champney, Lizzie W. (Lizzie Williams)
+    birthdate: 1850
+    deathdate: 1922
+    gutenberg_agent_id: '32897'
+    url: http://www.gutenberg.org/2009/agents/32897
+description: ''
+gutenberg_issued: '2011-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36313'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boarding schools -- Juvenile fiction'
+- !lcsh 'Young women -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Charity -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Theft -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+title: 'Witch Winnie''s Mystery, or The Old Oak Cabinet
+
+  The Story of a King''s Daughter'
+url: http://www.gutenberg.org/ebooks/36313
